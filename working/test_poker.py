@@ -8,7 +8,7 @@ def test_get_cards():
     deck = poker.Deck()
     hand = deck.get_cards(5)
     assert len(hand) == 5
-    assert len(deck.cards) == 48
+    assert len(deck.cards) == 47
 
 def test_three_of_a_kind():
     # remember that in class Card: def __init__(self, suit=1, rank=2)

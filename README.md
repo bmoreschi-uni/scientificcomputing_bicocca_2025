@@ -114,3 +114,4 @@ Credit: [xkcd 2582](https://xkcd.com/353/). This actually a Python easter egg...
 
 
 
+Beatrice Moreschi (test for exercise Q2)
